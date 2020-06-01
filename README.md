@@ -1,2 +1,2 @@
 # Python001
-Just some random Python code
+This is just some random Python code that I am currently working on and figuring out how GitHub functions.
